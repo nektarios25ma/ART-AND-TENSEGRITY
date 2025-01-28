@@ -5,7 +5,7 @@
 Το έργο μας θα είναι βέβαια υπο κλίμακα και θα πραγματοποιηθεί μέσω του software Τinkercad .
 
 ΥΛΙΚΑ: 
-1)PLA Filament X 3 €19,95 = 59,85€
+1)PLA Filament X 3 €19,95 = 59,85€  : https://grobotronics.com/sunlu-pla-filament-1-75mm-1kg-black.html
 
 2)2ΧΜΑΓΝΗΤΕΣ   2Χ3,16€ :  https://magnitech.gr/shop/magnites-neodymiou-isxyroi/magnites-diskoi-neodymiou/diskos-neodymiou-f20ch7mm/
 
