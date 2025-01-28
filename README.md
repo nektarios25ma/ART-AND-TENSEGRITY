@@ -14,6 +14,8 @@
 Όλα τα αρχεία ( STL, σχεδιαγράμματα) θα διατεθούν σε αποθετήριο GitHub για ανοιχτή πρόσβαση και συνεργασία.
 
 πχ βλέπε αντίστοιχες δημιουργίες* 
+https://content.instructables.com/FFH/Z14T/KAS7YKVK/FFHZ14TKAS7YKVK.jpg?auto=webp
+
 https://i.pinimg.com/736x/8f/15/6a/8f156a6309349a9c05a9a6783df17a49.jpg   ή    https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pinterest.com%2Fpin%2F670825307030903325%2F&psig=AOvVaw28R8e3mNN_3PQQ48Pxrlzq&ust=1738151045375000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiVlJismIsDFQAAAAAdAAAAABAK
 
 Tensegrity είναι ένας όρος με πλούσια και εκτεταμένη ιστορία.Επινοήθηκε από τον Buckminster Fuller, τον αρχιτέκτονα, μηχανικό και ποιητή, για να περιγράψει το όραμά του για ένα νέο είδος αρχιτεκτονικής, ένα που έμοιαζε να είναι χτισμένο από τη φύση και όχι από ανθρώπους. 
