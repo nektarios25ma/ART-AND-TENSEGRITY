@@ -1,8 +1,6 @@
 # ART-AND-TENSEGRITY
 Καλαίσθητες 3d printing δημιουργίες όπως τραπεζάκια tensegrity που εξυπηρετούν , διακοσμούν αλλά και διδάσκουν φυσική σε δημόσιο χώρο. Το έργο μας είναι βέβαια υπο κλίμακα και θα πραγματοποιηθεί μέσω του software Τinkercad .  
-video - link : 1) https://drive.google.com/file/d/1A6_eWvnhOisDb6FM_3yx2TR6Zjy4NRj7/view?usp=sharing
-
-2) https://drive.google.com/file/d/1v7ObQXScrlwhXi1oUoeU7694OlpVnG2X/view?usp=sharing
+video - link : https://drive.google.com/file/d/1uhTf2LvMchi5pqUFbSrMcWid1Eedng7C/view?usp=sharing
 
 
 ΥΛΙΚΑ: 
