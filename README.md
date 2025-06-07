@@ -14,7 +14,7 @@ video - link : https://drive.google.com/file/d/1uhTf2LvMchi5pqUFbSrMcWid1Eedng7C
 
 ΣΥΝΟΛΟ: 67 € 
 
-Όλα τα αρχεία ( STL, σχεδιαγράμματα) θα διατεθούν σε αποθετήριο GitHub για ανοιχτή πρόσβαση και συνεργασία.
+Όλα τα αρχεία ( STL, σχεδιαγράμματα) θα διατεθούν στο παρόν αποθετήριο GitHub για ανοιχτή πρόσβαση και συνεργασία.
 
 πχ βλέπε αντίστοιχες δημιουργίες* 
 https://content.instructables.com/FFH/Z14T/KAS7YKVK/FFHZ14TKAS7YKVK.jpg?auto=webp
